@@ -12,3 +12,4 @@ Room for Improvement:
 When players steal from another, it is not known which resource was stolen - by game design, it is a secret.
 Although the script tracks the number of thefts between players, more logic is needed to deduce which resource in particular was stolen
 (once a player has negative of a resource, it can be assumed that they must have stolen that resource - but if theyve stolen from multiple players, you can not be sure who they stole it from)
+There are ways to do this but it didn't seem worth my time.
