@@ -7,7 +7,7 @@ https://chromedriver.chromium.org/
 
 By design, resource data on Colonist is not directly accessible, so the script obtains information by parsing the chat box.
 
-Bugs/Room for Improvement:
+Room for Improvement:
 
 When players steal from another, it is not known which resource was stolen - by game design, it is a secret.
 Although the script tracks the number of thefts between players, more logic is needed to deduce which resource in particular was stolen
