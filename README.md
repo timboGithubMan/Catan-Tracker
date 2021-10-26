@@ -2,7 +2,7 @@
 A simple script I coded in python that uses Selenium to track resources in Colonist, an online version of Settlers of Catan.
 
 Requires the selenium and numpy packages to be installed. 
-Requires chromedriver.exe to be in C:\
+Requires chromedriver.exe to be in C:\\
 https://chromedriver.chromium.org/
 
 By design, resource data on Colonist is not directly accessible, so the script obtains information by parsing the chat box.
