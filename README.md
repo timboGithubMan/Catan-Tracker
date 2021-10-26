@@ -1,5 +1,5 @@
 # Catan-Tracker
-A simple python script that uses Selenium to track resources in Colonist, an online version of Settlers of Catan.
+A simple script I coded in python that uses Selenium to track resources in Colonist, an online version of Settlers of Catan.
 
 Requires the selenium and numpy packages to be installed. 
 Requires chromedriver.exe to be in C:\
