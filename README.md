@@ -6,7 +6,7 @@ Requires the selenium and numpy packages to be installed.
 Requires chromedriver.exe to be in C:\\
 https://chromedriver.chromium.org/
 
-By design, resource data on Colonist is not directly accessible, so the script obtains information by parsing the chat box.
+Resource values on Colonist are hidden, so the script obtains information by parsing the chat box that outputs player moves.
 
 Room for Improvement:
 
